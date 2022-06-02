@@ -79,6 +79,41 @@ from [CSR과 SSR](https://github.com/soonzero/TIL/blob/main/프론트엔드/CSR�
     }
     ```
 
+  - 페이지마다 다른 title을 사용하고 싶다면, 이 방법을 사용할 수 있다.
+
+    ```
+    // Seo.js
+
+    import Head from "next/head";
+
+    export default function Seo({ title }) {
+      return (
+        <Head>
+          <title>{title} | Next.js</title>
+        </Head>
+      )
+    }
+    ```
+
+    ```
+    // pages / posts / [id].js
+
+    import Seo from "../../components/seo";
+
+    ...
+
+    export default function Post({ postData }) {
+      return (
+        <Layout>
+          <Seo title={postData.title} />
+          <article>
+            ...
+          </article>
+        </Layout>
+      )
+    }
+    ```
+
 <br />
 
 - Script 컴포넌트
@@ -114,3 +149,79 @@ from [CSR과 SSR](https://github.com/soonzero/TIL/blob/main/프론트엔드/CSR�
 - CSS Styling
 
   - Next.js는 style.jsx, CSS Modules, Sass를 내장 지원하는데, 다른 라이브러리를 사용할 수 있다. (Styled-components, Tailwind, emotion 등)
+
+<br />
+
+## Base Path
+
+- Next.js에서 base path를 설정하려면 `next.config.js` 파일에서 `basePath` 속성을 설정하면 된다.
+
+  ```
+  module.exports = {
+    basePath: "/main",
+  }
+  ```
+
+- 이렇게 설정하면 `<Link>` 태그에서 이동할 때 `/about`이 아닌 `/main/about` 으로 이동하게 된다.
+
+- 단, `<Image />`나 `<svg>` 태그의 `src` 경로에는 적용되지 않으므로 주의해야 한다.
+
+<br />
+
+## Redirects()
+
+- redirection 하기 위해서는 `nest.config.js` 파일에서 `redirects` 키를 사용하면 된다.
+
+  ```
+  // next.config.js
+
+  module.exports = {
+    basePath: "/docs",
+    async redirects() {
+      return [
+        {
+          source: "/old-blog/:path*",
+          destination: "/new-blog/:path*",
+          permanent: false,
+        }
+      ]
+    }
+  }
+  ```
+
+- `redirects` 함수는 비동기 함수이며, `source`, `destination`, `permanent` 등을 속성으로 가지는 객체 배열을 return 한다.
+
+  - properties
+
+    - source: incoming request
+
+    - destination: redirect 할 경로
+
+    - permanent: true일 경우 http 코드가 308(permanent)이 되고, false인 경우 http 코드가 307(temporary)이 된다.
+
+    - basePath: true인 경우, redirection 경로의 basePath가 적용되고, false인 경우 적용되지 않는다.
+
+    - has: object 타입이며 header, cookie, query 매칭을 할 때 사용된다.
+
+<br />
+
+## Rewrites()
+
+- Redirect의 경우 source의 경로로 request가 오면 다른 경로로 redirect를 시켜주기 때문에, URL에 source의 경로가 잠깐 보였다가 redirection 경로로 변경된다.
+
+- 하지만 Rewrites의 경우 source 경로를 destination 경로로 매핑하기 때문에 URL 변화 없이 바로 destination 경로로 변경된다.
+
+  ```
+  const API_KEY = process.env.API_KEY;
+
+  module.exports = {
+    async rewrites() {
+      return [
+        {
+          source: "/api/movies",
+          destination: `https://.../movies/${API_KEY}`,
+        }
+      ]
+    }
+  }
+  ```
