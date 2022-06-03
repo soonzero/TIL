@@ -225,3 +225,17 @@ from [CSR과 SSR](https://github.com/soonzero/TIL/blob/main/프론트엔드/CSR�
     }
   }
   ```
+
+  <br />
+
+## Customize 404
+
+- 아래 파일을 만들어서 404 에러 페이지를 커스터마이징할 수 있다.
+
+  ```
+  // pages / 404.js
+
+  export default function NotFound() {
+    return "Error! 404";
+  }
+  ```
