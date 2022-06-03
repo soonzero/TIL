@@ -10,4 +10,6 @@
 
 ### 2022.06.01 [동적 라우팅](https://github.com/soonzero/TIL/blob/main/Next.js/동적%20라우팅.md)
 
-### 2022.06.02 [Next.js 기본, 프리렌더링과 데이터페칭(+추가)](https://github.com/soonzero/TIL/commit/31258919c43457b47f5b840d7c1debd5fd3d84bd#diff-de740c751ed1d2c5931525549b5d20330147c56297985032ca37fe8f90e67561)
+### 2022.06.02 [Next.js 기본, 프리렌더링과 데이터페칭(+추가)](https://github.com/soonzero/TIL/commit/31258919c43457b47f5b840d7c1debd5fd3d84bd)
+
+### 2022.06.03 [Next.js 기본, 동적 라우팅(+추가)](https://github.com/soonzero/TIL/commit/3832d1f406fb2a650595917ea622a75e21860381) / [프레임워크와 라이브러리](https://github.com/soonzero/TIL/blob/main/프론트엔드/프레임워크와%20라이브러리.md)
