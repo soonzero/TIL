@@ -19,3 +19,5 @@
 ### 2022.06.05 [ES6 (2) - 비구조화 할당, 프로미스, async, await](<https://github.com/soonzero/TIL/blob/main/ES6/ES6%20(2)%20-%20비구조화%20할당%2C%20프로미스%2C%20async%2C%20await.md>)
 
 ### 2022.06.06 [Node.js, npm, npx](https://github.com/soonzero/TIL/blob/main/Node.js/Node.js%2C%20npm%2C%20npx.md)
+
+### 2022.06.07 [svg와 svg 컴포넌트](https://github.com/soonzero/TIL/blob/main/Next.js/svg와%20svg컴포넌트.md)
