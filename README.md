@@ -27,3 +27,5 @@
 ### 2022.06.09 [RESTful API(+추가)](https://github.com/soonzero/TIL/blob/main/프론트엔드/RESTful%20API.md)
 
 ### 2022.06.10 [http와 https](https://github.com/soonzero/TIL/blob/main/프론트엔드/http와%20https.md)
+
+### 2022.06.11 [쿠키와 웹 스토리지](https://github.com/soonzero/TIL/blob/main/프론트엔드/쿠키와%20웹%20스토리지.md)
