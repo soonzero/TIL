@@ -14,9 +14,9 @@
 
 ### 2022.06.03 [Next.js 기본, 동적 라우팅(+추가)](https://github.com/soonzero/TIL/commit/3832d1f406fb2a650595917ea622a75e21860381) / [프레임워크와 라이브러리](https://github.com/soonzero/TIL/blob/main/프론트엔드/프레임워크와%20라이브러리.md)
 
-### 2022.06.04 [ES6 (1) - const와 let, 객체 리터럴, 템플릿 문자열, 화살표 함수](<https://github.com/soonzero/TIL/blob/main/ES6/ES6%20(1)%20-%20const와%20let%2C%20객체%20리터럴%2C%20템플릿%20문자열%2C%20화살표%20함수.md>)
+### 2022.06.04 [ES6 (1) - const와 let, 객체 리터럴, 템플릿 문자열, 화살표 함수](<https://github.com/soonzero/TIL/blob/main/JS/ES6%20(1)%20-%20const와%20let%2C%20객체%20리터럴%2C%20템플릿%20문자열%2C%20화살표%20함수.md>)
 
-### 2022.06.05 [ES6 (2) - 비구조화 할당, 프로미스, async, await](<https://github.com/soonzero/TIL/blob/main/ES6/ES6%20(2)%20-%20비구조화%20할당%2C%20프로미스%2C%20async%2C%20await.md>)
+### 2022.06.05 [ES6 (2) - 비구조화 할당, 프로미스, async, await](<https://github.com/soonzero/TIL/blob/main/JS/ES6%20(2)%20-%20비구조화%20할당%2C%20프로미스%2C%20async%2C%20await.md>)
 
 ### 2022.06.06 [Node.js, npm, npx](https://github.com/soonzero/TIL/blob/main/Node.js/Node.js%2C%20npm%2C%20npx.md)
 
@@ -33,3 +33,5 @@
 ### 2022.06.12 [인증 방식 (OAuth 2.0, JWT, API Key)](<https://github.com/soonzero/TIL/blob/main/프론트엔드/인증%20방식%20(OAuth%202.0,%20JWT,%20API%20Key).md>)
 
 ### 2022.06.13 [인증 방식 (OAuth 2.0, JWT, API Key)(+추가)](<https://github.com/soonzero/TIL/blob/main/프론트엔드/인증%20방식%20(OAuth%202.0,%20JWT,%20API%20Key).md>)
+
+### 2022.06.14 [Closure](https://github.com/soonzero/TIL/blob/main/JS/Closure.md)
