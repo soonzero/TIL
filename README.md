@@ -35,3 +35,5 @@
 ### 2022.06.13 [인증 방식 (OAuth 2.0, JWT, API Key)(+추가)](<https://github.com/soonzero/TIL/blob/main/프론트엔드/인증%20방식%20(OAuth%202.0,%20JWT,%20API%20Key).md>)
 
 ### 2022.06.14 [Closure](https://github.com/soonzero/TIL/blob/main/JS/Closure.md)
+
+### 2022.06.15 [SSR과 Token](https://github.com/soonzero/TIL/blob/main/Next.js/SSR과%20Token.md)
