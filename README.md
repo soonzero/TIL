@@ -37,3 +37,5 @@
 ### 2022.06.14 [Closure](https://github.com/soonzero/TIL/blob/main/JS/Closure.md)
 
 ### 2022.06.15 [SSR과 Token](https://github.com/soonzero/TIL/blob/main/Next.js/SSR과%20Token.md)
+
+### 2022.06.18 [Number, BigInt, Symbol과 데이터 타입](https://github.com/soonzero/TIL/blob/main/JS/Number,%20BigInt,%20Symbol과%20데이터%20타입.md)
