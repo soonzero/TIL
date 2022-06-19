@@ -41,3 +41,5 @@
 ### 2022.06.18 [Number, BigInt, Symbol과 데이터 타입](https://github.com/soonzero/TIL/blob/main/JS/Number,%20BigInt,%20Symbol과%20데이터%20타입.md)
 
 ### 2022.06.19 [TypeScript](https://github.com/soonzero/TIL/blob/main/TypeScript/TypeScript.md) / [Types](https://github.com/soonzero/TIL/blob/main/TypeScript/Types.md)
+
+### 2022.06.20 [Types(+추가)](https://github.com/soonzero/TIL/blob/main/TypeScript/Types.md)
