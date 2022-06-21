@@ -8,7 +8,7 @@
 
 - MPA(Multiple Page Application)
 
-  사용자가 페이지를 요청할 떄마다 웹 서버가 요청한 UI와 필요한 데이터를 HTML로 파싱해서 보여주는 방식의 웹 애플리케이션
+  사용자가 페이지를 요청할 때마다 웹 서버가 요청한 UI와 필요한 데이터를 HTML로 파싱해서 보여주는 방식의 웹 애플리케이션
 
 <br />
 
@@ -46,7 +46,7 @@
 
 <hr />
 
-### CSR(Client Side Rendering)
+### SSR(Server Side Rendering)
 
 <img src="https://github.com/baeharam/Must-Know-About-Frontend/raw/main/images/frontend/SSR.png" alt="SSR">
 
