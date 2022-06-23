@@ -45,3 +45,5 @@
 ### 2022.06.20 [Types(+추가)](https://github.com/soonzero/TIL/blob/main/TypeScript/Types.md)
 
 ### 2022.06.21 [JSON 줄바꿈](https://github.com/soonzero/TIL/blob/main/CSS/JSON과%20줄바꿈.md)
+
+### 2022.06.22 [트랜스파일러, 바벨과 폴리필](https://github.com/soonzero/TIL/blob/main/JS/트랜스파일러,%20바벨과%20폴리필.md)
