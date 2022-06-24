@@ -49,3 +49,5 @@
 ### 2022.06.22 [트랜스파일러, 바벨과 폴리필](https://github.com/soonzero/TIL/blob/main/JS/트랜스파일러,%20바벨과%20폴리필.md)
 
 ### 2022.06.23 [모듈 번들러와 웹팩](https://github.com/soonzero/TIL/blob/main/JS/모듈%20번들러와%20웹팩.md)
+
+### 2022.06.24 [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md)
