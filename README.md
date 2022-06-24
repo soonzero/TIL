@@ -44,10 +44,10 @@
 
 ### 2022.06.20 [Types(+추가)](https://github.com/soonzero/TIL/blob/main/TypeScript/Types.md)
 
-### 2022.06.21 [JSON 줄바꿈](https://github.com/soonzero/TIL/blob/main/CSS/JSON과%20줄바꿈.md)
+### 2022.06.21 [JSON 줄바꿈](https://github.com/soonzero/TIL/blob/main/CSS/JSON%20줄바꿈.md)
 
 ### 2022.06.22 [트랜스파일러, 바벨과 폴리필](https://github.com/soonzero/TIL/blob/main/JS/트랜스파일러,%20바벨과%20폴리필.md)
 
 ### 2022.06.23 [모듈 번들러와 웹팩](https://github.com/soonzero/TIL/blob/main/JS/모듈%20번들러와%20웹팩.md)
 
-### 2022.06.24 [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md)
+### 2022.06.24 [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md) / [시맨틱 마크업](https://github.com/soonzero/TIL/blob/main/HTML/시맨틱%20마크업.md)
