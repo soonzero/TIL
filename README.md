@@ -14,9 +14,13 @@
 ## HTML
 
 - [시맨틱 마크업](https://github.com/soonzero/TIL/blob/main/HTML/시맨틱%20마크업.md)
-- [CSS](https://github.com/soonzero/TIL/blob/main/CSS)
+
+## CSS
+
 - [JSON 줄바꿈](https://github.com/soonzero/TIL/blob/main/CSS/JSON%20줄바꿈.md)
-- [JavaScript](https://github.com/soonzero/TIL/blob/main/JavaScript)
+
+## JavaScript
+
 - [ES6 (1) - const와 let, 객체 리터럴, 템플릿 문자열, 화살표 함수](<https://github.com/soonzero/TIL/blob/main/JS/ES6%20(1)%20-%20const와%20let%2C%20객체%20리터럴%2C%20템플릿%20문자열%2C%20화살표%20함수.md>)
 - [ES6 (2) - 비구조화 할당, 프로미스, async, await](<https://github.com/soonzero/TIL/blob/main/JS/ES6%20(2)%20-%20비구조화%20할당%2C%20프로미스%2C%20async%2C%20await.md>)
 - [Closure](https://github.com/soonzero/TIL/blob/main/JS/Closure.md)
@@ -24,6 +28,7 @@
 - [트랜스파일러, 바벨과 폴리필](https://github.com/soonzero/TIL/blob/main/JS/트랜스파일러,%20바벨과%20폴리필.md)
 - [모듈 번들러와 웹팩](https://github.com/soonzero/TIL/blob/main/JS/모듈%20번들러와%20웹팩.md)
 - [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md)
+- [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
 
 ## TypeScript
 
@@ -106,4 +111,4 @@
 
 2022.06.24 [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md) / [시맨틱 마크업](https://github.com/soonzero/TIL/blob/main/HTML/시맨틱%20마크업.md)
 
-2022.06.25 [Context API와 Redux](https://github.com/soonzero/TIL/blob/main/React/Context%20API와%20Redux.md)
+2022.06.25 [Context API와 Redux](https://github.com/soonzero/TIL/blob/main/React/Context%20API와%20Redux.md) / [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
