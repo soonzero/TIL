@@ -39,6 +39,11 @@
 
 - [Context API와 Redux](https://github.com/soonzero/TIL/blob/main/React/Context%20API와%20Redux.md)
 
+## Redux
+
+- [redux-persist](https://github.com/soonzero/TIL/blob/main/React/redux/redux-persist.md)
+- [redux-saga](https://github.com/soonzero/TIL/blob/main/React/redux/redux-saga.md)
+
 ## Node.js
 
 - [Node.js, npm, npx](https://github.com/soonzero/TIL/blob/main/Node.js/Node.js%2C%20npm%2C%20npx.md)
@@ -112,3 +117,5 @@
 2022.06.24 [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md) / [시맨틱 마크업](https://github.com/soonzero/TIL/blob/main/HTML/시맨틱%20마크업.md)
 
 2022.06.25 [Context API와 Redux](https://github.com/soonzero/TIL/blob/main/React/Context%20API와%20Redux.md) / [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
+
+2022.06.26 [redux-persist](https://github.com/soonzero/TIL/blob/main/React/redux/redux-persist.md) / [redux-saga](https://github.com/soonzero/TIL/blob/main/React/redux/redux-saga.md)
