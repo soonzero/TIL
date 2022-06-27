@@ -29,6 +29,7 @@
 - [모듈 번들러와 웹팩](https://github.com/soonzero/TIL/blob/main/JS/모듈%20번들러와%20웹팩.md)
 - [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md)
 - [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
+- [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
 
 ## TypeScript
 
@@ -122,3 +123,5 @@
 2022.06.26 [redux-persist](https://github.com/soonzero/TIL/blob/main/React/redux/redux-persist.md) / [redux-saga](https://github.com/soonzero/TIL/blob/main/React/redux/redux-saga.md)
 
 2022.06.27 [React-Query](https://github.com/soonzero/TIL/blob/main/React/React-Query.md)
+
+2022.06.28 [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
