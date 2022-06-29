@@ -125,3 +125,5 @@
 2022.06.27 [React-Query](https://github.com/soonzero/TIL/blob/main/React/React-Query.md)
 
 2022.06.28 [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
+
+2022.06.29 [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)

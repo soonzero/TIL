@@ -104,7 +104,7 @@ Query는 4개의 상태를 가지며, useQuery가 반환하는 객체의 프로�
 
    - inactive된 이후에도 cacheTime 동안 캐시된 데이터가 유지되지만, cachTime이 지나면 GC\*된다.
 
-   - [GC(Garbage Collection)](https://velog.io/@bumsu0211/JavaScript-Garbage-Collection): 쓸모 없어진 객체가 차지하는 메모리를 자동으로 해제하는 것 (나중에 따로 정리)
+   - [GC(Garbage Collection)](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md): 쓸모 없어진 객체가 차지하는 메모리를 자동으로 해제하는 것
 
 컴포넌트가 리렌더링 되면서 새로운 쿼리가 만들어지고, 이전의 렌더링에서 호출됐던 쿼리들은 inactive 상태가 된다.
 
