@@ -30,6 +30,7 @@
 - [웹팩과 바벨 설정](https://github.com/soonzero/TIL/blob/main/JS/웹팩과%20바벨%20설정.md)
 - [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
 - [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
+- [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
 
 ## TypeScript
 
@@ -132,3 +133,7 @@
 2022.06.29 [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
 
 2022.06.30 [Recoil](https://github.com/soonzero/TIL/blob/main/React/상태%20관리/Recoil.md)
+
+## 2022.07
+
+2022.07.01 [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
