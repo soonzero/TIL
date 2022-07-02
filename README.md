@@ -39,6 +39,8 @@
 
 ## React
 
+- [Suspense와 SSR](https://github.com/soonzero/TIL/blob/main/React/Suspense와%20SSR.md)
+
 ### 상태 관리
 
 - [Context API와 Redux](https://github.com/soonzero/TIL/blob/main/React/상태%20관리/Context%20API와%20Redux.md)
@@ -137,3 +139,5 @@
 ## 2022.07
 
 2022.07.01 [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
+
+2022.07.02 [Suspense와 SSR](https://github.com/soonzero/TIL/blob/main/React/Suspense와%20SSR.md)
