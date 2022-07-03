@@ -1,4 +1,4 @@
-# New Suspense SSR Architecture
+# Suspense와 SSR
 
 이번에 새로운 프로젝트를 시작하려고 준비 중이다.
 
