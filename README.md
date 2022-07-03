@@ -31,6 +31,7 @@
 - [절차적 프로그래밍과 객체 지향 프로그래밍](https://github.com/soonzero/TIL/blob/main/JS/절차적%20프로그래밍과%20객체%20지향%20프로그래밍.md)
 - [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
 - [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
+- [Hoisting과 TDZ](https://github.com/soonzero/TIL/blob/main/JS/Hoisting과%20TDZ.md)
 
 ## TypeScript
 
@@ -141,3 +142,5 @@
 2022.07.01 [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
 
 2022.07.02 [Suspense와 SSR](https://github.com/soonzero/TIL/blob/main/React/Suspense와%20SSR.md)
+
+2022.07.03 [Hoisting과 TDZ](https://github.com/soonzero/TIL/blob/main/JS/Hoisting과%20TDZ.md)
