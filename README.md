@@ -19,6 +19,7 @@
 ## CSS
 
 - [JSON 줄바꿈](https://github.com/soonzero/TIL/blob/main/CSS/JSON%20줄바꿈.md)
+- [TailwindCSS](https://github.com/soonzero/TIL/blob/main/CSS/TailwindCSS.md)
 
 ## JavaScript
 
@@ -154,3 +155,5 @@
 2022.07.05 [GraphQL과 Apollo Client](https://github.com/soonzero/TIL/blob/main/Node.js/GraphQL과%20Apollo%20Client.md)
 
 2022.07.06 [Fragment](https://github.com/soonzero/TIL/blob/main/React/Fragment.md) / [ESLint와 Prettier](https://github.com/soonzero/TIL/blob/main/프론트엔드/ESLint와%20Prettier.md)
+
+2022.07.07 [TailwindCSS](https://github.com/soonzero/TIL/blob/main/CSS/TailwindCSS.md)
