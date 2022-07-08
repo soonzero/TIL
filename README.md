@@ -45,6 +45,7 @@
 - [Suspense와 SSR](https://github.com/soonzero/TIL/blob/main/React/Suspense와%20SSR.md)
 - [Fragment](https://github.com/soonzero/TIL/blob/main/React/Fragment.md)
 - [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md)
+- [map 함수와 key 속성](https://github.com/soonzero/TIL/blob/main/React/map%20함수와%20key%20속성.md)
 
 ### 상태 관리
 
@@ -159,4 +160,4 @@
 
 2022.07.07 [TailwindCSS](https://github.com/soonzero/TIL/blob/main/CSS/TailwindCSS.md)
 
-2022.07.08 [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md)
+2022.07.08 [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md) / [map 함수와 key 속성](https://github.com/soonzero/TIL/blob/main/React/map%20함수와%20key%20속성.md)
