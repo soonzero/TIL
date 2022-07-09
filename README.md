@@ -34,6 +34,7 @@
 - [가비지 컬렉션](https://github.com/soonzero/TIL/blob/main/JS/가비지%20컬렉션.md)
 - [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
 - [Hoisting과 TDZ](https://github.com/soonzero/TIL/blob/main/JS/Hoisting과%20TDZ.md)
+- [불변성(immutability](<https://github.com/soonzero/TIL/blob/main/JS/불변성(immutability).md>)
 
 ## TypeScript
 
@@ -161,3 +162,5 @@
 2022.07.07 [TailwindCSS](https://github.com/soonzero/TIL/blob/main/CSS/TailwindCSS.md)
 
 2022.07.08 [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md) / [map 함수와 key 속성](https://github.com/soonzero/TIL/blob/main/React/map%20함수와%20key%20속성.md)
+
+2022.07.09 [불변성(immutability](<https://github.com/soonzero/TIL/blob/main/JS/불변성(immutability).md>)
