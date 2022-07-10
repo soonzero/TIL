@@ -181,4 +181,4 @@ console.log(obj0);
 
 얕은 복사의 문제점을 깊은 복사를 통해 해결할 수 있지만, 자바스크립트로 구현하기에는 조금 복잡하다.
 
-이 때 사용할 수 있는 외부 라이브러리가 있는데 그것이 바로 lodash이다.
+이 때 사용할 수 있는 외부 라이브러리가 있는데 그것이 바로 [`lodash`](https://github.com/soonzero/TIL/blob/main/JS/lodash.md)이다.
