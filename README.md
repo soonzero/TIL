@@ -35,7 +35,7 @@
 - [this](https://github.com/soonzero/TIL/blob/main/JS/this.md)
 - [Hoisting과 TDZ](https://github.com/soonzero/TIL/blob/main/JS/Hoisting과%20TDZ.md)
 - [불변성(immutability](<https://github.com/soonzero/TIL/blob/main/JS/불변성(immutability).md>)
-- [lodash](https://github.com/soonzero/TIL/blobl/main/JS/lodash.md)
+- [lodash](https://github.com/soonzero/TIL/blob/main/JS/lodash.md)
 
 ## TypeScript
 
@@ -48,6 +48,7 @@
 - [Fragment](https://github.com/soonzero/TIL/blob/main/React/Fragment.md)
 - [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md)
 - [map 함수와 key 속성](https://github.com/soonzero/TIL/blob/main/React/map%20함수와%20key%20속성.md)
+- [useState의 비동기 처리와 함수형 업데이트](https://github.com/soonzero/TIL/blob/main/React/useState의%20비동기%20처리와%20함수형%20업데이트.md)
 
 ### 상태 관리
 
@@ -166,4 +167,6 @@
 
 2022.07.09 [불변성(immutability](<https://github.com/soonzero/TIL/blob/main/JS/불변성(immutability).md>)
 
-2022.07.10 [lodash](https://github.com/soonzero/TIL/blobl/main/JS/lodash.md)
+2022.07.10 [lodash](https://github.com/soonzero/TIL/blob/main/JS/lodash.md)
+
+2022.07.11 [useState의 비동기 처리와 함수형 업데이트](https://github.com/soonzero/TIL/blob/main/React/useState의%20비동기%20처리와%20함수형%20업데이트.md)
