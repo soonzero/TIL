@@ -49,6 +49,7 @@
 - [useState와 useRef](https://github.com/soonzero/TIL/blob/main/React/useState와%20useRef.md)
 - [map 함수와 key 속성](https://github.com/soonzero/TIL/blob/main/React/map%20함수와%20key%20속성.md)
 - [useState의 비동기 처리와 함수형 업데이트](https://github.com/soonzero/TIL/blob/main/React/useState의%20비동기%20처리와%20함수형%20업데이트.md)
+- [useMemo와 useCallback](https://github.com/soonzero/TIL/blob/main/React/useMemo와%20useCallback.md)
 
 ### 상태 관리
 
@@ -170,3 +171,5 @@
 2022.07.10 [lodash](https://github.com/soonzero/TIL/blob/main/JS/lodash.md)
 
 2022.07.11 [useState의 비동기 처리와 함수형 업데이트](https://github.com/soonzero/TIL/blob/main/React/useState의%20비동기%20처리와%20함수형%20업데이트.md)
+
+2022.07.12 [useMemo와 useCallback](https://github.com/soonzero/TIL/blob/main/React/useMemo와%20useCallback.md)
